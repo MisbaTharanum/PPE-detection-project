@@ -1,0 +1,12 @@
+path: C:/Users/Shifa/Desktop/datasets
+train: images/train
+val: images/val
+
+nc: 6
+names:
+  0: hard-hat
+  1: gloves
+  2: mask
+  3: glasses
+  4: boots
+  5: vest
